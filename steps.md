@@ -11,7 +11,9 @@ Scroll down and check the boxes for:
 4. Enter the following command to set your system default to WSL 2:
 
 `wsl --set-default-version 2` in powershell
-5. Install the Ubuntu with no numbers app from the Windows Store  it will ask for username and password 
+5. Download the latest package:
+`https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi` for
+WSL2 Linux kernel update package for x64 machines, Install the Ubuntu with no numbers app from the Windows Store  it will ask for username and password 
 6. Open Command Prompt from the Windows search bar
 Run the following command: `wsl -l -v` 
 it will show :
