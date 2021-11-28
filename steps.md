@@ -39,7 +39,7 @@ mv ~/.zshrc .zshrc.bak
 
 NOTE: You will see an error along the lines of -bash: /home/linuxbrew/.linuxbrew/bin/brew: No such file or directory. This is ok for now.
 
-12. Type `sudo apt-get update.`
+12. Type `sudo apt-get update`
 - Provide your password, when prompted
 - Once that is complete, type `sudo apt-get upgrade` Press y when prompted.
 - Once that is done, type `sudo apt autoremove` This will remove any packages that are no longer needed.
