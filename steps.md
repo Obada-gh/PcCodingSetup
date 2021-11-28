@@ -8,9 +8,7 @@ Scroll down and check the boxes for:
 - [x] Windows Subsystem for Linux
 - [x] for amd Cpu restart your pc and turn on svm and tpm from the bios svm for Virtual Machine work and tpm for win 11 
 3. instal Windows Terminal from the store
-4. Enter the following command to set your system default to WSL 2:
-
-`wsl --set-default-version 2` in powershell
+4. Enter the following command to set your system default to WSL 2:`wsl --set-default-version 2` in powershell
 5. Download the latest package:
 `https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi` for
 WSL2 Linux kernel update package for x64 machines, Install the Ubuntu with no numbers app from the Windows Store  it will ask for username and password 
