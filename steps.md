@@ -301,11 +301,11 @@ plt.show()                   # Display the plot
 # Quiqqo extenstion fix :
 
 1. you must be in root ~
-2. Run `brew install nvm`  or `reinstall`
+2. Run `brew install nvm`  or `reinstall` or download node from offical site if not work with actuly its the better to download it also from the site.
 3. Once it completes, you will need to exit your terminal, and log back in to demonstrate that the command works in a new shell. You will then need to ensure you have a hidden folder for nvm. Run the following: `mkdir ~/.nvm`
 4. run `nvm install --lts`
 5. run `nvm ls` Your output should look similar to this (version numbers may differ):
-
+6. type node and type 5+5 and see if its work fine.
 
 
 
