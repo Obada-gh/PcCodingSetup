@@ -298,7 +298,7 @@ plt.show()                   # Display the plot
 ```
 
 
-# Quiqqo extenstion fix :
+# Quokko extenstion fix :
 
 1. you must be in root ~
 2. Run `brew install nvm`  or `reinstall` or download node from offical site if not work with actuly its the better to download it also from the site.
