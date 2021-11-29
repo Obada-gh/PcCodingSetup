@@ -1,6 +1,6 @@
 # This setup from 201 lvl to 401 lvl python 1/8/2021
 
-# setup js :
+# setup js201 :
 1. get last ver for win10 or win11
 2. In the Search box next to the Windows Menu, type Turn Windows Features On Or Off and hit enter.
 A window will pop up with a list of folders with checkboxes next to them.
