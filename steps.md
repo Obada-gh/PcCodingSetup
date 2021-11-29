@@ -109,6 +109,34 @@ git config --global init.defaultbranch main
 - markdownlint
 - HTML Preview
 
+53. vs Code extensions:
+
+Table of Contents
+Want to install all of the extensions listed below at once?! Check out The `Web Development Essentials Extension`
+1. Debugger for chrome
+2. Javascript (ES6) Code Snippets
+3. ESLint
+4. Live server
+5. Bracket Pair Colorizor
+6. Auto Rename Tag
+7. Quokka
+8. Path Intellisense
+9. Project Manager
+10. Editor Config
+11. Sublime Text Keymap
+12. Browser Preview
+13. Git Lens
+14. Polacode
+15. Prettier
+16. Better Comments
+17. Git Link
+18. VS Code Icons
+19. Material Icon Theme
+20. Settings Sync
+21. Better Align
+22. VIM
+
+
 
 ### 301 setup :
 1. run `brew install postgresql`
@@ -139,32 +167,6 @@ Type \q to exit the postgres client application and return to your bash shell.
 
 ```
 
-vs Code extensions:
-
-Table of Contents
-Want to install all of the extensions listed below at once?! Check out The `Web Development Essentials Extension`
-1. Debugger for chrome
-2. Javascript (ES6) Code Snippets
-3. ESLint
-4. Live server
-5. Bracket Pair Colorizor
-6. Auto Rename Tag
-7. Quokka
-8. Path Intellisense
-9. Project Manager
-10. Editor Config
-11. Sublime Text Keymap
-12. Browser Preview
-13. Git Lens
-14. Polacode
-15. Prettier
-16. Better Comments
-17. Git Link
-18. VS Code Icons
-19. Material Icon Theme
-20. Settings Sync
-21. Better Align
-22. VIM
 
 # Set Up 401 python
 
