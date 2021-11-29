@@ -87,6 +87,7 @@ lts/fermium -> v14.16.1
 43. Github will prompt you for the one time code. Enter in the appropriate boxes.
 44. Click Authorize github
 45. You can close the web browser and press enter in your terminal to continue.
+
 ```
 Like artists, programmers sign their work. Let’s configure Git to sign your commits with your name and email address.
 
@@ -98,6 +99,7 @@ git config --global core.editor "code --wait"
 git config --global init.defaultbranch main
 
 ```
+
 46. run `brew install tree`
 47. run `tree --version`
 
