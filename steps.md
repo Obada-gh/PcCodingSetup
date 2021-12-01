@@ -188,7 +188,7 @@ Make a back up of existing '.profile'
 mv ~/.profile ~/.profile.bak
 ```
 
-Create new `~/.profile` (touch ~/.profile) and add text below
+Create new `touch ~/.profile` and open the file with vsCode and add the text below
 
 ```bash
 #Linuxbrew (if needed)
