@@ -25,7 +25,7 @@ Ubuntu-20.04           Running         2
 
 7. Set Ubuntu as the default when opening the windows terminal. from sitting of the windows terminal.
 
-8. now all steps from ubuntu root
+8. now all steps from ubuntu root `cd ~`
 
 9. Make back ups of the files listed below. You may get a No such file or directory error for some of them. That’s ok.:
 ```
