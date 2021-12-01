@@ -1,14 +1,14 @@
 # This setup from 201 lvl to 401 lvl python 1/8/2021
 
 # setup js201 :
-1. get last ver for win10 or win11
+1. get last ver for win10 or win11 by update your windows from control panel.
 2. In the Search box next to the Windows Menu, type Turn Windows Features On Or Off and hit enter.
 A window will pop up with a list of folders with checkboxes next to them.
 Scroll down and check the boxes for:
 - [x] Virtual Machine Platform
 - [x] Windows Hypervisor Platform
 - [x] Windows Subsystem for Linux
-- [x] for amd Cpu restart your pc and turn on svm and tpm from the bios svm for Virtual Machine work and tpm for win 11 
+- [x] restart your pc for amd Cpu restart your pc and turn on svm and tpm from the bios svm for Virtual Machine work and tpm for win 11 
 3. instal Windows Terminal from the store
 4. Enter the following command to set your system default to WSL 2:`wsl --set-default-version 2` in powershell
 5. Download the latest package:
