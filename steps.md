@@ -48,7 +48,7 @@ NOTE: You will see an error along the lines of -bash: /home/linuxbrew/.linuxbrew
 - Install the “Build Essentials” kit with this command: `sudo apt-get install build-essential`
 
 13. Install “Homebrew” run `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-go contunuo and yes anything
+go continuo and yes anything
 14. run `test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)`
 15. run `test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)`
 16.  run `brew doctor` return output is: Your system is ready to brew
@@ -188,7 +188,7 @@ Make a back up of existing '.profile'
 mv ~/.profile ~/.profile.bak
 ```
 
-Create new `~/.profile` and add text below
+Create new `~/.profile` (touch ~/.profile) and add text below
 
 ```bash
 #Linuxbrew (if needed)
@@ -307,7 +307,7 @@ plt.show()                   # Display the plot
 # Quokko extenstion fix :
 
 1. you must be in root ~
-2. Run `brew install nvm`  or `reinstall` or download node from offical site if not work with actuly its the better to download it also from the site.
+2. Run `brew install nvm`  or `reinstall` or download node from offical site if not work with actually its the better to download it also from the site.
 3. Once it completes, you will need to exit your terminal, and log back in to demonstrate that the command works in a new shell. You will then need to ensure you have a hidden folder for nvm. Run the following: `mkdir ~/.nvm`
 4. run `nvm install --lts`
 5. run `nvm ls` Your output should look similar to this (version numbers may differ):
